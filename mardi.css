@@ -1,0 +1,71 @@
+
+
+.header
+{
+	
+	display: flex;
+	justify-content: flex-end;
+	flex-wrap:nowrap;
+	
+
+}
+.man
+{
+align-self:flex-end;
+
+}
+
+.section
+{
+	justify-content:center;
+
+}
+
+.container
+{
+	text-align:center;
+	
+
+}
+.footer
+{
+
+    background-color: #D3D3D3;
+    
+}
+
+.pad1
+{
+	
+	display: flex;
+	align-items: flex-end;
+	background: #D3D3D3;
+	padding:0px;
+	bottom:0;
+	position:fixed;
+	padding-top:70px; 
+	justify-content:space space-between;
+}
+.pad2 
+{
+	display:flex;
+	flex-grow:4;
+	padding:0px;
+	bottom:0;
+	position:fixed;
+	justify-content:space space-between;
+
+}
+
+.pad3 
+
+{
+	display:flex;
+	align-items:flex-end;
+	bottom:0;
+	padding-left:600px;
+	justify-content:space space-between; 
+
+
+}
+}
